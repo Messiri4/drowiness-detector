@@ -62,13 +62,13 @@ pip install -r requirements.txt
 2. Run the main detection system:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 3. To test the alarm sound independently:
 
 ```bash
-python test_alarm.py
+python3 test_alarm.py
 ```
 
 ---
