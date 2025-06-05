@@ -38,7 +38,7 @@ A real-time drowsiness detection system that uses MediaPipe for facial landmark 
 
 ```bash
 git clone git@github.com:Messiri4/drowiness-detector.git
-cd drowsiness-detector
+cd drowiness-detector
 ```
 
 2. Create a virtual environment and activate it:
