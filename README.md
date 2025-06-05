@@ -37,7 +37,7 @@ A real-time drowsiness detection system that uses MediaPipe for facial landmark 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/drowsiness-detector.git
+git clone git@github.com:Messiri4/drowiness-detector.git
 cd drowsiness-detector
 ```
 
