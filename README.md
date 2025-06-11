@@ -44,7 +44,7 @@ cd drowiness-detector
 2. Create a virtual environment and activate it:
 
 ```bash
-python -m venv drowsy-venv
+python3 -m venv drowsy-venv
 source drowsy-venv/bin/activate   # On Windows: drowsy-venv\Scripts\activate
 ```
 
