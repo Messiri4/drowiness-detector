@@ -6,7 +6,7 @@ A real-time drowsiness detection system that uses MediaPipe for facial landmark 
 
 ## 🎥 Demo Video
 
-[![Watch the video](assets/preview1.mp4)]
+(assets/preview.png)]
 
 ---
 
