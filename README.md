@@ -2,11 +2,7 @@
 
 A real-time drowsiness detection system that uses MediaPipe for facial landmark tracking, eye aspect ratio (EAR) for blink detection, and head pose estimation to identify signs of fatigue. If signs of drowsiness are detected—such as frequent blinking or nodding—the system triggers an alarm to alert the user.
 
----
-
-## 🎥 Demo Video
-
-(assets/preview.png)]
+!(assets/preview.png)
 
 ---
 
